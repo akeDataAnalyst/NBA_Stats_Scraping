@@ -35,5 +35,5 @@ import numpy as np`
 
 6. Output
    - The collected data can be exported to an Excel file for further analysis
-     `df.to_csv('nba_stats_scraping.csv', index=False
-)`
+     
+`df.to_csv('nba_stats_scraping.csv', index=False)`
