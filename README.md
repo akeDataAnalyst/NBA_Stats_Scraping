@@ -12,7 +12,11 @@ Import necessary libraries:
 	- Requests for making HTTP requests
 	- Time and NumPy for handling delays and creating random wait times during scraping to avoid being blocked by the server
 
-![]()
+`import pandas as pd
+import requests 
+pd.set_option('display.max_columns',None)
+import time
+import numpy as np`
 
 2. Understanding the Data Structure
    - The data is accessed via an API endpoint, which returns data in JSON format
@@ -21,13 +25,11 @@ Import necessary libraries:
      
 3. Scraping Process
    - Use the `requests.get()` method to fetch data from the constructed URL
-      []()
-       ![]()
-     
+      
 4. Handling API Requests
    - To avoid being blocked, introduce a delay between requests using `time.sleep()`
   
-      ![]()
+ ![]()
 
 5. Data Storage
    - Once the data is scraped, it is stored in a DataFrame, which allows for easy manipulation and analysis later
