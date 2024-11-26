@@ -29,7 +29,7 @@ import numpy as np`
 4. Handling API Requests
    - To avoid being blocked, introduce a delay between requests using `time.sleep()`
   
- ![]()
+ ![](nbaapi.PNG)
 
 5. Data Storage
    - Once the data is scraped, it is stored in a DataFrame, which allows for easy manipulation and analysis later
