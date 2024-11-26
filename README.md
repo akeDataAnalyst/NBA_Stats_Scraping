@@ -1,7 +1,6 @@
 # NBA_Stats_Scraping
-
+[](https://www.nba.com)
 ![](nbastat1.PNG)
-[](https://www.nba.com/stats/leaders)
 
 These project focuses on scraping NBA stats data using Python, specifically targeting the official NBA stats website.
 
