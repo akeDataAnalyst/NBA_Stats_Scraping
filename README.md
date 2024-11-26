@@ -17,7 +17,7 @@ Import necessary libraries:
 2. Understanding the Data Structure
    - The data is accessed via an API endpoint, which returns data in JSON format
   
-       ![]()
+       ![](nbaNetwork.PNG)
      
 3. Scraping Process
    - Use the `requests.get()` method to fetch data from the constructed URL
