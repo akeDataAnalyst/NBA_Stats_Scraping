@@ -1,5 +1,5 @@
 # NBA_Stats_Scraping
-[](https://www.nba.com)
+
 ![](nbastat1.PNG)
 
 These project focuses on scraping NBA stats data using Python, specifically targeting the official NBA stats website.
@@ -35,3 +35,5 @@ import numpy as np`
 
 6. Output
    - The collected data can be exported to an Excel file for further analysis
+     `df.to_csv('nba_stats_scraping.csv', index=False
+)`
