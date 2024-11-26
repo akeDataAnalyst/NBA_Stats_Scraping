@@ -1,5 +1,5 @@
 # NBA_Stats_Scraping
-
+![](NBA.jpg)
 These project focuses on scraping NBA stats data using Python, specifically targeting the official NBA stats website.
 
 ## Key Steps in Data Scraping
