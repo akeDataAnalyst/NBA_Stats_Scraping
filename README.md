@@ -37,5 +37,6 @@ import numpy as np`
    - The collected data can be exported to an Excel file for further analysis
      
 `df.to_csv('nba_stats_scraping.csv', index=False)`
+[Exported Excel file](nba_stats_scraping.csv)
 
-[official website](https://www.nba.com/stats/leaders)
+[NBA official website](https://www.nba.com/stats/leaders)
