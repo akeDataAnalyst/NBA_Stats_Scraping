@@ -2,7 +2,7 @@
 
 ![](nbastat1.PNG)
 
-These project focuses on scraping NBA stats data using Python, specifically targeting the official NBA stats website.
+This project focuses on scraping NBA stats data using Python, specifically targeting the official NBA stats website.
 
 ## Key Steps in Data Scraping
 1. Setting Up the Environment
