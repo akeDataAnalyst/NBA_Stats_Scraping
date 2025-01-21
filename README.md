@@ -40,3 +40,5 @@ import numpy as np`
 [Exported Excel file](nba_stats_scraping.csv)
 
 [NBA official website](https://www.nba.com/stats/leaders)
+
+# Thank You for Your Time!
